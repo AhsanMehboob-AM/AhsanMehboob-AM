@@ -41,7 +41,7 @@ Dedicated MERN Stack Developer with expertise in MongoDB, Express.js, React, and
 ---
 
 ## **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,expressjs,nodejs,mongodb,firebase,java,c++,git,github,vscode,styledcomponents,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,expressjs,nodejs,mongodb,firebase,java,c,git,github,vscode,styledcomponents,postman,stackoverflow&perline=13)](#)
 
 ---
 
