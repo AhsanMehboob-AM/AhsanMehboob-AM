@@ -38,9 +38,9 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 ### 📬 Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/ahsan-mehboob" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/HussainAnjan5/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100015425173392/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/HussainAnjan5/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/elegant_world7/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anjan._.hussain/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahsan-mehboob" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" " height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100015425173392/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/elegant_world7/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ---
@@ -53,7 +53,7 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HussainAnjan5&show_icons=true&locale=en&layout=compact" alt="HussainAnjan5" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HussainAnjan5&" alt="HussainAnjan5" /></p> 
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100&section=footer"/>
