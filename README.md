@@ -54,7 +54,6 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HussainAnjan5&show_icons=true&locale=en&layout=compact" alt="HussainAnjan5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HussainAnjan5&show_icons=true&locale=en" alt="HussainAnjan5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HussainAnjan5&" alt="HussainAnjan5" /></p> 
 
