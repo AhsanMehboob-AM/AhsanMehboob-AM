@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="HussainAnjan5" />
 </p>
-<h1 align="center">👋 Ahsan Mehboob</h1>
+<h1 align="center"> Ahsan Mehboob</h1>
 <h3 align="center">🖥️ Frontend Developer | MERN Stack Developer | 🎓 Software Engineer</h3>
 
 <p align="center">
-I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, React, and Node.js. I build user-friendly, high-performance web applications and excel at simplifying complex problems. Known for strong teamwork and clear communication, I bring innovative ideas to each project, striving to exceed user expectations with efficient, high-quality solutions. 
+Dedicated MERN Stack Developer with expertise in MongoDB, Express.js, React, and Node.js. Specializes in creating user-friendly, high-performance web applications while simplifying complex challenges. Recognized for strong teamwork, effective communication, and a commitment to innovation. Delivers efficient, high-quality solutions that consistently exceed user expectations.  
 </p>
 
 ---
@@ -20,12 +20,7 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 
 ---
 
-### 👨‍💻 Projects
 
-- **Visit My Portfolio** - [View Here](https://hussain-portfolio-app.vercel.app/)
-- **Netflix Clone** - [View Here](https://adorable-biscochitos-00323b.netlify.app)
-
----
 
 ### 🌟 Interests
 
